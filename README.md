@@ -105,7 +105,7 @@ testados e ao fim adicionados ao modelo final.
 Tudo foi automatizado de forma simples para que no futuro o trabalho de
 atualização do modelo seja mais fácil e menos burocrático.
 
-### Conclusão
+## Conclusão
 
 Observando os pontos de melhoria destacados nas fases anteriores da avaliação do
 trabalho, uma abordagem mais ampla foi escolhida, ao enviar imagens não
@@ -115,6 +115,6 @@ atualização e monitoramento. O pipe, juntamente com o input de imagens não
 processadas possibilita salvar massas de dados muito maiores e automatizar a
 entrada de novos dados.
 
-# Imagens
+## Imagens
 
 ![Teste do algoritmo](image.png)
