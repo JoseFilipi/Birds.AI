@@ -1,3 +1,13 @@
+
+|           Desenvolvedores                               |
+|------------------------------------------|
+| Cauã Matheus Alves Correa                |
+| José Filipi Brito Souza                  |
+| Luiz Guilherme Palhares Pettengill       |
+| Maria Luisa Alves Rodrigues              |
+| Milena Fernandes Rocha                   |
+| Wellington Jonathan de Souza Rodrigues   |
+
 # Birds.AI
 Algoritmo de DeepLearning em CNN para identificação de aves através de imagens fornecidas pelo usuário.
 
